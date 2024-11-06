@@ -1,0 +1,1 @@
+document.write('<a href="tel:+6281295023541" class="btn btn-text-primary" >PANGGIL</a>') //Ganti +6281295023541 dengan NO Telepon Agan (Gunakan Kode Negara +62)

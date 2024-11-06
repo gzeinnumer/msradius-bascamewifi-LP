@@ -1,0 +1,1 @@
+document.write('BascameWifi') //Ganti dengan Nama Wifi Agan
